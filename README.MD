@@ -40,7 +40,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de Flask, o ebook é do nicho de programação e o subnicho é o python, o título deve ser épico e curto e tenha uma temática que tenha haver com o que o flask proporciona e sobre o que ele diz. Me liste 5 variações de títulos/                                                        |
+|  título  | Crie um título de um ebook sobre o tema de Flask, o ebook é do nicho de programação e o subnicho é o python, o título deve ser épico e curto e tenha uma temática que tenha haver com o que o flask proporciona e sobre o que ele diz. Me liste 5 variações de títulos                                                        |
 | conteúdo | Faça um texto para ebook, com foco em FLASK(python), listando os principais seletores FLASK com exemplos em código {REGRAS} >Explique sempre de uma maneira simples >Deixe o texto enxuto >Sempre traga exemplos de códigos em contextos reais >Sempre deixe um título sugestivo por tópico 
     
 
